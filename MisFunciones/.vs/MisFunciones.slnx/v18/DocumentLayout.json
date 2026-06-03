@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\MisFunciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63DF6243-D874-4AB5-97ED-37115843AD72}|MisFunciones\\MisFunciones.vcxproj|C:\\Users\\javij\\source\\repos\\MisFunciones\\MisFunciones\\MisFunciones.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{63DF6243-D874-4AB5-97ED-37115843AD72}|MisFunciones\\MisFunciones.vcxproj|solutionrelative:MisFunciones\\MisFunciones.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63DF6243-D874-4AB5-97ED-37115843AD72}|MisFunciones\\MisFunciones.vcxproj|C:\\Users\\javij\\source\\repos\\MisFunciones\\MisFunciones\\pruebaSSE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63DF6243-D874-4AB5-97ED-37115843AD72}|MisFunciones\\MisFunciones.vcxproj|solutionrelative:MisFunciones\\pruebaSSE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisFunciones.asm",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\MisFunciones\\MisFunciones\\MisFunciones.asm",
+              "RelativeDocumentMoniker": "MisFunciones\\MisFunciones.asm",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\MisFunciones\\MisFunciones\\MisFunciones.asm",
+              "RelativeToolTip": "MisFunciones\\MisFunciones.asm",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T00:28:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pruebaSSE.cpp",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\MisFunciones\\MisFunciones\\pruebaSSE.cpp",
+              "RelativeDocumentMoniker": "MisFunciones\\pruebaSSE.cpp",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\MisFunciones\\MisFunciones\\pruebaSSE.cpp",
+              "RelativeToolTip": "MisFunciones\\pruebaSSE.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T00:27:28.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

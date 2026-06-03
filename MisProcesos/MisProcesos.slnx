@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MisProcesos/MisProcesos.vcxproj" Id="63cd3296-d228-4f6c-9e43-1601b438e4e4" />
+</Solution>

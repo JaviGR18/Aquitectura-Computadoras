@@ -1,0 +1,3 @@
+﻿  Factorial.cpp
+Factorial.obj : error LNK2019: símbolo externo factorial sin resolver al que se hace referencia en la función main
+C:\Users\javij\source\repos\Factorial\x64\Debug\Factorial.exe : fatal error LNK1120: 1 externos sin resolver

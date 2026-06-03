@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B09EF051-9F82-4CB3-8BAB-1C8D4F873CA1}|Ordenar Arreglo\\Ordenar Arreglo.vcxproj|C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\Ordenar Arreglo\\Principal.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B09EF051-9F82-4CB3-8BAB-1C8D4F873CA1}|Ordenar Arreglo\\Ordenar Arreglo.vcxproj|solutionrelative:Ordenar Arreglo\\Principal.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09EF051-9F82-4CB3-8BAB-1C8D4F873CA1}|Ordenar Arreglo\\Ordenar Arreglo.vcxproj|C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\Ordenar Arreglo\\Ordenar Arreglo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B09EF051-9F82-4CB3-8BAB-1C8D4F873CA1}|Ordenar Arreglo\\Ordenar Arreglo.vcxproj|solutionrelative:Ordenar Arreglo\\Ordenar Arreglo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.asm",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\Ordenar Arreglo\\Principal.asm",
+              "RelativeDocumentMoniker": "Ordenar Arreglo\\Principal.asm",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\Ordenar Arreglo\\Principal.asm",
+              "RelativeToolTip": "Ordenar Arreglo\\Principal.asm",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T06:38:40.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordenar Arreglo.cpp",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\Ordenar Arreglo\\Ordenar Arreglo.cpp",
+              "RelativeDocumentMoniker": "Ordenar Arreglo\\Ordenar Arreglo.cpp",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Ordenar Arreglo\\Ordenar Arreglo\\Ordenar Arreglo.cpp",
+              "RelativeToolTip": "Ordenar Arreglo\\Ordenar Arreglo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-24T06:37:23.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2026_I_suma_indirecto/2026_I_suma_indirecto.vcxproj" />
+</Solution>

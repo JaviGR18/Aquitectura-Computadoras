@@ -1,0 +1,3 @@
+﻿  Assembling principal.asm...
+principal.obj : warning LNK4258: la directiva '/ENTRY:main@0' no es compatible con el modificador '/ENTRY:main'; se ha omitido
+  HolaAsm.vcxproj -> C:\Users\javij\source\repos\HolaAsm\Debug\HolaAsm.exe

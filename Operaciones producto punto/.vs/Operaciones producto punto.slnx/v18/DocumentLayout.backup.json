@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E72029-3D19-4F7C-90B5-99DA46DAF43D}|Operaciones producto punto\\Operaciones producto punto.vcxproj|C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\Dotproduct.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86E72029-3D19-4F7C-90B5-99DA46DAF43D}|Operaciones producto punto\\Operaciones producto punto.vcxproj|solutionrelative:Dotproduct.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E72029-3D19-4F7C-90B5-99DA46DAF43D}|Operaciones producto punto\\Operaciones producto punto.vcxproj|C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\Operaciones producto punto\\Operaciones producto punto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86E72029-3D19-4F7C-90B5-99DA46DAF43D}|Operaciones producto punto\\Operaciones producto punto.vcxproj|solutionrelative:Operaciones producto punto\\Operaciones producto punto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dotproduct.asm",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\Dotproduct.asm",
+              "RelativeDocumentMoniker": "Dotproduct.asm",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\Dotproduct.asm",
+              "RelativeToolTip": "Dotproduct.asm",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-27T06:48:11.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones producto punto.cpp",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\Operaciones producto punto\\Operaciones producto punto.cpp",
+              "RelativeDocumentMoniker": "Operaciones producto punto\\Operaciones producto punto.cpp",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Operaciones producto punto\\Operaciones producto punto\\Operaciones producto punto.cpp",
+              "RelativeToolTip": "Operaciones producto punto\\Operaciones producto punto.cpp",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-27T05:44:44.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿  2026_I_suma_indirecto.cpp
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(12,2): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(14,3): error C2065: 'MOV': identificador no declarado
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(14,7): error C2146: error de sintaxis: falta ';' delante del identificador 'EAX'
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(14,7): error C2065: 'EAX': identificador no declarado
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(15,3): error C2760: error de sintaxis: "MOV" no se esperaba aquí; se esperaba "{"
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(15,7): error C2065: 'EBX': identificador no declarado
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(16,3): error C2760: error de sintaxis: "ADD" no se esperaba aquí; se esperaba "{"
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(16,7): error C2065: 'EAX': identificador no declarado
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(16,12): error C2065: 'EBX': identificador no declarado
+C:\Users\javij\source\repos\2026_I_suma_indirecto\2026_I_suma_indirecto\2026_I_suma_indirecto.cpp(17,3): error C2146: error de sintaxis: falta ',' delante del identificador 'MOV'

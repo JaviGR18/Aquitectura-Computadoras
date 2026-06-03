@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\DIV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7089B5D3-C043-485C-8AD5-9DEDB9505462}|DIV\\DIV.vcxproj|C:\\Users\\javij\\source\\repos\\DIV\\DIV\\promedio.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7089B5D3-C043-485C-8AD5-9DEDB9505462}|DIV\\DIV.vcxproj|solutionrelative:DIV\\promedio.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "promedio.asm",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\DIV\\DIV\\promedio.asm",
+              "RelativeDocumentMoniker": "DIV\\promedio.asm",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\DIV\\DIV\\promedio.asm",
+              "RelativeToolTip": "DIV\\promedio.asm",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-20T06:28:03.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

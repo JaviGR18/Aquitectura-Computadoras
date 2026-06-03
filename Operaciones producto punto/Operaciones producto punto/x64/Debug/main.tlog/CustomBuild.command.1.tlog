@@ -1,0 +1,2 @@
+^C:\USERS\JAVIJ\SOURCE\REPOS\OPERACIONES PRODUCTO PUNTO\DOTPRODUCT.ASM
+ml64.exe /c /Zi /Fo"x64\Debug\Dotproduct.obj" /W3 "C:\Users\javij\source\repos\Operaciones producto punto\Dotproduct.asm"

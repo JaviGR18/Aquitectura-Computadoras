@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="de minusculas a mayusculas/de minusculas a mayusculas.vcxproj" />
+</Solution>

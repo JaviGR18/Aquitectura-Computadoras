@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HolaAsm/HolaAsm.vcxproj" Id="3203b33b-e287-4e8b-9cb3-c2cd79c913ce" />
+</Solution>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\Factorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF3AFBF-1D63-47E0-AD39-B86D9382953E}|Factorial\\Factorial.vcxproj|C:\\Users\\javij\\source\\repos\\Factorial\\Factorial\\Factorial.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3FF3AFBF-1D63-47E0-AD39-B86D9382953E}|Factorial\\Factorial.vcxproj|solutionrelative:Factorial\\Factorial.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factorial.asm",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Factorial\\Factorial\\Factorial.asm",
+              "RelativeDocumentMoniker": "Factorial\\Factorial.asm",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Factorial\\Factorial\\Factorial.asm",
+              "RelativeToolTip": "Factorial\\Factorial.asm",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-19T07:54:37.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
