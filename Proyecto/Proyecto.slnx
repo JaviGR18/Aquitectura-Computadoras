@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Folder Name="/Elementos de la solución/" />
-  <Project Path="../../../../../../source/repos/Proyecto/Proyecto/Proyecto.vcxproj" />
-</Solution>
