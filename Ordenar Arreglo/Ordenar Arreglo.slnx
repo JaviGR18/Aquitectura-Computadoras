@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ordenar Arreglo/Ordenar Arreglo.vcxproj" Id="b09ef051-9f82-4cb3-8bab-1c8d4f873ca1" />
+</Solution>

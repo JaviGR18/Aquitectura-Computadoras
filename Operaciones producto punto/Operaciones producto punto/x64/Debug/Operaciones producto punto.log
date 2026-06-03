@@ -1,0 +1,7 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.50.35730.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: C:\Users\javij\source\repos\Operaciones producto punto\Dotproduct.asm
+  Operaciones producto punto.cpp
+  Operaciones producto punto.vcxproj -> C:\Users\javij\source\repos\Operaciones producto punto\x64\Debug\main.exe

@@ -1,0 +1,6 @@
+﻿Operaciones producto punto.obj : error LNK2019: símbolo externo _dot_fpu sin resolver al que se hace referencia en la función _main
+Operaciones producto punto.obj : error LNK2019: símbolo externo _dot_sse sin resolver al que se hace referencia en la función _main
+Operaciones producto punto.obj : error LNK2019: símbolo externo _dot_avx sin resolver al que se hace referencia en la función _main
+Operaciones producto punto.obj : error LNK2019: símbolo externo _rdtsc_start sin resolver al que se hace referencia en la función "unsigned __int64 __cdecl measure_cycles(float (__cdecl*)(float const *,float const *,int),float const *,float const *,int,int)" (?measure_cycles@@YA_KP6AMPBM0H@Z00HH@Z)
+Operaciones producto punto.obj : error LNK2019: símbolo externo _rdtsc_end sin resolver al que se hace referencia en la función "unsigned __int64 __cdecl measure_cycles(float (__cdecl*)(float const *,float const *,int),float const *,float const *,int,int)" (?measure_cycles@@YA_KP6AMPBM0H@Z00HH@Z)
+C:\Users\javij\source\repos\Operaciones producto punto\Debug\main.exe : fatal error LNK1120: 5 externos sin resolver

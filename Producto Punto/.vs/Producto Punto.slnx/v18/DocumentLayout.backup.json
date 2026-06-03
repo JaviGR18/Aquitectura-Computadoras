@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\Producto Punto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901F1F7D-9603-462A-9DD6-2AE10BBDCE1B}|Producto Punto\\Producto Punto.vcxproj|C:\\Users\\javij\\source\\repos\\Producto Punto\\Producto Punto\\dotproduct.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{901F1F7D-9603-462A-9DD6-2AE10BBDCE1B}|Producto Punto\\Producto Punto.vcxproj|solutionrelative:Producto Punto\\dotproduct.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{901F1F7D-9603-462A-9DD6-2AE10BBDCE1B}|Producto Punto\\Producto Punto.vcxproj|C:\\Users\\javij\\source\\repos\\Producto Punto\\Producto Punto\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{901F1F7D-9603-462A-9DD6-2AE10BBDCE1B}|Producto Punto\\Producto Punto.vcxproj|solutionrelative:Producto Punto\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dotproduct.asm",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Producto Punto\\Producto Punto\\dotproduct.asm",
+              "RelativeDocumentMoniker": "Producto Punto\\dotproduct.asm",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Producto Punto\\Producto Punto\\dotproduct.asm",
+              "RelativeToolTip": "Producto Punto\\dotproduct.asm",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-08T19:17:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Producto Punto\\Producto Punto\\main.cpp",
+              "RelativeDocumentMoniker": "Producto Punto\\main.cpp",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Producto Punto\\Producto Punto\\main.cpp",
+              "RelativeToolTip": "Producto Punto\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-08T19:16:45.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javij\\source\\repos\\Prueba0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC6CB44-2B54-418C-8388-5E0F627FCAE9}|Prueba0\\Prueba0.vcxproj|C:\\Users\\javij\\source\\repos\\Prueba0\\Prueba0\\Prueba0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADC6CB44-2B54-418C-8388-5E0F627FCAE9}|Prueba0\\Prueba0.vcxproj|solutionrelative:Prueba0\\Prueba0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prueba0.cpp",
+              "DocumentMoniker": "C:\\Users\\javij\\source\\repos\\Prueba0\\Prueba0\\Prueba0.cpp",
+              "RelativeDocumentMoniker": "Prueba0\\Prueba0.cpp",
+              "ToolTip": "C:\\Users\\javij\\source\\repos\\Prueba0\\Prueba0\\Prueba0.cpp",
+              "RelativeToolTip": "Prueba0\\Prueba0.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T06:07:28.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

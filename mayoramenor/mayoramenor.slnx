@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mayoramenor/mayoramenor.vcxproj" Id="0d673134-893e-4c3d-89d3-9e7553ab2425" />
+</Solution>
